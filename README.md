@@ -42,3 +42,6 @@ THEN I should have proper build scripts for a webpack application
 ## Live application
  The link for the deployed application in Heroke is added below. 
  Link: https://just-another-text-editor23.herokuapp.com/
+
+ ## Screenshot
+ ![screenshot for the app](./ss/text.PNG) 
